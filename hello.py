@@ -1,4 +1,4 @@
-def add(a, b):
+def add(a, ):
     return a + b
 
 print(f"The sum of 2 and 3 is {add(2, 3)}")
